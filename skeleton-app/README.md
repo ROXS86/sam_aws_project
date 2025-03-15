@@ -1,11 +1,9 @@
 # skeleton-app
-## doc reference
+
+### doc reference
 https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-getting-started-hello-world.html
 
-https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/using-sam-cli-init.html#using-sam-cli-init-new
-
-
-
+## description
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.
 
