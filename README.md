@@ -1,1 +1,0 @@
-# sam_aws_project
